@@ -1,0 +1,15 @@
+CAPTURAS DE PANTALLA REQUERIDAS
+================================
+(Este archivo es solo una guía; se puede borrar antes de entregar.)
+
+01_aplicacion.png          Aplicación funcionando en el navegador (pantalla inicial).
+02_formulario_completo.png Formulario lleno correctamente, antes de enviar.
+03_validacion.png          Mensajes de error con campos vacíos o correo inválido.
+04_reporte_enviado.png     Mensaje "¡Reporte enviado correctamente!".
+05_correo_recibido.png     Bandeja del administrador con el correo recibido y sus datos.
+06_aplicacion_nube.png     Aplicación abierta desde la URL de Streamlit Community Cloud
+                           (que se vea el enlace .streamlit.app en la barra del navegador).
+
+RECORDATORIO IMPORTANTE:
+- No se acepta una captura únicamente del código fuente.
+- No debe verse ninguna contraseña, token o clave de aplicación en las capturas.
