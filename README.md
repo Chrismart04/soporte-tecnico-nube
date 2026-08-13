@@ -7,13 +7,11 @@ automáticamente un correo al administrador con el reporte.
 La aplicación no usa base de datos y no guarda los reportes en ningún archivo.
 Los datos solo se usan para validar el formulario y enviar el correo.
 
-## Integrantes del equipo
+## Estudiante
 
-| Nombre completo | Número de cuenta |
-|---|---|
-| (completar) | (completar) |
-| (completar) | (completar) |
-| (completar) | (completar) |
+Christopher Daniel Martinez Soto, número de cuenta 202410080143.
+
+El proyecto se realizó de forma individual.
 
 ## Cómo funciona
 
